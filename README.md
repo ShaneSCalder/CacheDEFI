@@ -4,11 +4,5 @@
 
 CACH token https://www.cachedefi.com
 
-# What is Cache DEFI Token 
-
-<br>
-
-### Cache DEFI token is an ecosystem to generate earning opportunities for token holders and provide liquidity for startups. This token will decentralize venture capital and offer opportunities that were only available to the top 2% of the population. 
-<br>
 
 
